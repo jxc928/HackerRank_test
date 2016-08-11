@@ -1,4 +1,4 @@
-package com.jack.algorithms.warmup;
+package com.jack.algorithms.Implementation;
 
 import java.util.Scanner;
 
